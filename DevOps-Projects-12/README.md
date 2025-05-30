@@ -19,34 +19,13 @@ Super Mario is a game we all cherish, and in this project, we bring it to life o
 ## 📖 Step-by-Step Guide  
 
 📌 **Read the full tutorial with screenshots**:  
-[Deployment of Super Mario on Kubernetes using Terraform](https://blog.prodevopsguy.xyz/deployment-of-super-mario-on-kubernetes-using-terraform)  
+[Deployment of Super Mario on Kubernetes using Terraform]
 
 ---
 
 ## 💻 Project Source Code  
 
 🔗 **Explore the Code Repository**:  
-[GitHub – Super Mario on Kubernetes](https://github.com/NotHarshhaa/Deployment-of-super-Mario-on-Kubernetes-using-terraform)  
+[GitHub – Super Mario on Kubernetes](https://github.com/Haswanthkondamadugula/Deployment-of-super-Mario-on-Kubernetes-using-terraform)  
 
 ---
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
