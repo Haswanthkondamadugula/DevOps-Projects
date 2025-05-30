@@ -12,20 +12,20 @@
 
 # Project Steps :-
 
-- **Step 1** — [Launch an Ubuntu(22.04) T2 Large Instance](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-1-launch-an-ubuntu2204-t2-large-instance)
-- **Step 2** — [Install Jenkins, Docker and Trivy. Create a Sonarqube Container using Docker.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-2--install-jenkins-docker-and-trivy-create-a-sonarqube-container-using-docker)
-- **Step 3** — [Create a TMDB API Key.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-3-create-a-tmdb-api-key)
-- **Step 4** — [Install Prometheus and Grafana On the new Server.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-4--install-prometheus-and-grafana-on-the-new-server)
-- **Step 5** — [Install the Prometheus Plugin and Integrate it with the Prometheus server.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-5--install-the-prometheus-plugin-and-integrate-it-with-the-prometheus-server)
-- **Step 6** — [Email Integration With Jenkins and Plugin setup.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-6--email-integration-with-jenkins-and-plugin-setup)
-- **Step 7** — [Install Plugins like JDK, Sonarqube Scanner, Nodejs, and OWASP Dependency Check.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-7--install-plugins-like-jdk-sonarqube-scanner-nodejs-and-owasp-dependency-check)
-- **Step 8** — [Create a Pipeline Project in Jenkins using a Declarative Pipeline](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-8--create-a-pipeline-project-in-jenkins-using-a-declarative-pipeline)
-- **Step 9** — [Install OWASP Dependency Check Plugins](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-9--install-owasp-dependency-check-plugins)
-- **Step 10** — [Docker Image Build and Push](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-10--docker-image-build-and-push)
-- **Step 11** — [Deploy the image using Docker](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-11--deploy-the-image-using-docker)
-- **Step 12** — [Kubernetes master and slave setup on Ubuntu (20.04)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-12-kubernetes-master-and-slave-setup-on-ubuntu-2004)
-- **Step 13** — [Access the Netflix app on the Browser.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-13-access-the-netflix-app-on-the-browser)
-- **Step 14** — [Terminate the AWS EC2 Instances.](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-14-terminate-instances)
+- **Step 1** — [Launch an Ubuntu(22.04) T2 Large Instance](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-1-launch-an-ubuntu2204-t2-large-instance)
+- **Step 2** — [Install Jenkins, Docker and Trivy. Create a Sonarqube Container using Docker.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-2--install-jenkins-docker-and-trivy-create-a-sonarqube-container-using-docker)
+- **Step 3** — [Create a TMDB API Key.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-3-create-a-tmdb-api-key)
+- **Step 4** — [Install Prometheus and Grafana On the new Server.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-4--install-prometheus-and-grafana-on-the-new-server)
+- **Step 5** — [Install the Prometheus Plugin and Integrate it with the Prometheus server.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-5--install-the-prometheus-plugin-and-integrate-it-with-the-prometheus-server)
+- **Step 6** — [Email Integration With Jenkins and Plugin setup.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-6--email-integration-with-jenkins-and-plugin-setup)
+- **Step 7** — [Install Plugins like JDK, Sonarqube Scanner, Nodejs, and OWASP Dependency Check.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-7--install-plugins-like-jdk-sonarqube-scanner-nodejs-and-owasp-dependency-check)
+- **Step 8** — [Create a Pipeline Project in Jenkins using a Declarative Pipeline](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-8--create-a-pipeline-project-in-jenkins-using-a-declarative-pipeline)
+- **Step 9** — [Install OWASP Dependency Check Plugins](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-9--install-owasp-dependency-check-plugins)
+- **Step 10** — [Docker Image Build and Push](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-10--docker-image-build-and-push)
+- **Step 11** — [Deploy the image using Docker](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-11--deploy-the-image-using-docker)
+- **Step 12** — [Kubernetes master and slave setup on Ubuntu (20.04)](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-12-kubernetes-master-and-slave-setup-on-ubuntu-2004)
+- **Step 13** — [Access the Netflix app on the Browser.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-13-access-the-netflix-app-on-the-browser)
+- **Step 14** — [Terminate the AWS EC2 Instances.](https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/DevOps-Project-09/README.md#step-14-terminate-instances)
 
 ## Step 1: Launch an Ubuntu(22.04) T2 Large Instance
 
@@ -916,25 +916,3 @@ kubectl get svc #use anyone
 - ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/0bfdfbd0-927e-4513-96bd-5029571fc8e3)
 
 ## Step 14: Terminate instances
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
