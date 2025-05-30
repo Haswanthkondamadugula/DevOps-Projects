@@ -60,7 +60,6 @@ To improve readability and accessibility for users, this repository is also avai
 
 A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using **Next.js** and styled with **Tailwind CSS**, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on DevOps and Cloud concepts!
 
-🔗 **Explore the site**: [projects.prodevopsguytech.com](https://projects.prodevopsguytech.com)
 
 ![Showcase Website](https://img.shields.io/badge/🌐%20Project%20Showcase-Next.js%20+%20Tailwind%20UI-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)
 
