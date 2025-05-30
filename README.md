@@ -19,7 +19,7 @@
 [contrib-shield]: https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white
 [contrib-url]: https://github.com/Haswanthkondamadugula/DevOps-Projects/blob/master/CONTRIBUTING.md
 
-![DevOps-Projects](https://imgur.com/tlMOmn0.png)
+![image](https://github.com/user-attachments/assets/57b17f98-989a-4235-9cdd-b4260b3cc65b)
 
 ---
 
