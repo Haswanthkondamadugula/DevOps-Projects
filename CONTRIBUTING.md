@@ -13,12 +13,12 @@ There are several ways you can contribute to this project:
 
 ### 🐛 Report Bugs or Issues
 
-- Identify and report bugs or unexpected behavior by opening an [issue](https://github.com/NotHarshhaa/DevOps-Projects/issues).
+- Identify and report bugs or unexpected behavior by opening an [issue](https://github.com/Haswanthkondamadugula/DevOps-Projects/issues).
 - Provide detailed steps to reproduce the issue, along with screenshots or logs if applicable.
 
 ### ✨ Suggest or Implement New Features
 
-- Propose new features or improvements by starting a discussion in the [discussions](https://github.com/NotHarshhaa/DevOps-Projects/discussions) section.
+- Propose new features or improvements by starting a discussion in the [discussions](https://github.com/Haswanthkondamadugula/DevOps-Projects/discussions) section.
 - If you’re implementing a feature, ensure it aligns with the project’s goals and standards.
 
 ### 📦 Add New DevOps Project Setups or Enhancements
@@ -46,7 +46,7 @@ To get started with contributing to this project, follow these steps:
     Clone your forked repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/<your-username>/DevOps-Projects.git
+    git clone https://github.com/<your-username-Haswanth>/DevOps-Projects.git
     cd DevOps-Projects
     ```
 
@@ -112,8 +112,8 @@ By following these steps and guidelines, you help maintain the quality and integ
 
 If you have questions, suggestions, or need assistance, feel free to:
 
-- Open an [issue](https://github.com/NotHarshhaa/DevOps-Projects/issues) for bugs or feature requests.
-- Join the [discussions](https://github.com/NotHarshhaa/DevOps-Projects/discussions) to share ideas or ask for help.
+- Open an [issue](https://github.com/Haswanthkondamadugula/DevOps-Projects/issues) for bugs or feature requests.
+- Join the [discussions](https://github.com/Haswanthkondamadugula/DevOps-Projects/discussions) to share ideas or ask for help.
 
 We value your input and collaboration. Let's grow and innovate together!
 
