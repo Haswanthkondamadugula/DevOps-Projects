@@ -18,15 +18,11 @@ This project demonstrates how to **securely deploy a Zomato-like food delivery a
 
 ## 📖 Step-by-Step Guide  
 
-📌 **Read the full tutorial with screenshots**:  
-[Zomato Clone: Secure Deployment with DevSecOps CI/CD](https://blog.prodevopsguy.xyz/zomato-clone-secure-deployment-with-devsecops-cicd)  
-
----
 
 ## 💻 Project Source Code  
 
 🔗 **Explore the Code Repository**:  
-[GitHub – Zomato Clone](https://github.com/NotHarshhaa/Zomato-Clone)  
+[GitHub – Zomato Clone](https://github.com/Haswanthkondamadugula/Zomato-Clone)  
 
 ---
 
@@ -38,25 +34,4 @@ Here are some previews of the application:
 ![Sample 2](https://miro.medium.com/v2/resize:fit:750/format:webp/1*KOwp6K2sOcSmDyk9Axnvhw.png)  
 ![Sample 3](https://miro.medium.com/v2/resize:fit:750/format:webp/1*t1x_F_qwHI6anvRHS59OxA.png)  
 
----
 
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
